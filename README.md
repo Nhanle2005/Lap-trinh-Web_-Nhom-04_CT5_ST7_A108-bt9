@@ -1,4 +1,4 @@
-# 🚀 Product Management System - GraphQL + Spring Boot 3
+# Product Management System - GraphQL + Spring Boot 3
 ### 1. Clone và chạy dự án
 
 ```bash
